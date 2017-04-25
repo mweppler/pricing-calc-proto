@@ -1,0 +1,40 @@
+.App {
+  /*text-align: center;*/
+}
+
+.App-logo {
+  height: 20px;
+}
+
+.App-header {
+  background-color: #231F1F;
+  color: white;
+  height: 60px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.App-avatar {}
+
+.App-upper-nav {
+  list-style: none;
+  display: inline-block;
+}
+
+.App-upper-nav > li {
+  display: inline-block;
+}
+
+.App-left-nav {}
+
+.App-right-nav {}
+
+.App-calc {
+  border: 1px solid #231F1F;
+  display: inline-block;
+  margin: 1%;
+  width: 46%;
+}
+
